@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/v2_bg_pressed.9.png",
+        "source": "/Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/res/drawable-nodpi-v4/v2_bg_pressed.9.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/v2_bg.9.png",
+        "source": "/Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/res/drawable-nodpi-v4/v2_bg.9.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/v2_bg.9.png",
+        "source": "/Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/res/drawable-nodpi-v4/v2_bg.9.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/v2_bg_pressed.9.png",
+        "source": "/Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/res/drawable-nodpi-v4/v2_bg_pressed.9.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/v2_facebook_card_badge.png",
+        "source": "/Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/res/drawable-nodpi-v4/v2_facebook_card_badge.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/v2_facebook_card_badge.png",
+        "source": "/Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/res/drawable-nodpi-v4/v2_facebook_card_badge.png"
+    }
+]

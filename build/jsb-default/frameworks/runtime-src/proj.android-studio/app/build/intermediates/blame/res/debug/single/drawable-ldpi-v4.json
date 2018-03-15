@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_rewind.png",
+        "source": "/Users/souravbanik/.android/build-cache/6acd7b8f9704a57448371c968b1d74f37f6253a2/output/res/drawable-ldpi-v4/exo_controls_rewind.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_play.png",
+        "source": "/Users/souravbanik/.android/build-cache/6acd7b8f9704a57448371c968b1d74f37f6253a2/output/res/drawable-ldpi-v4/exo_controls_play.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_edit_mode_logo.png",
+        "source": "/Users/souravbanik/.android/build-cache/6acd7b8f9704a57448371c968b1d74f37f6253a2/output/res/drawable-ldpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_play.png",
+        "source": "/Users/souravbanik/.android/build-cache/6acd7b8f9704a57448371c968b1d74f37f6253a2/output/res/drawable-ldpi-v4/exo_controls_play.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_fastforward.png",
+        "source": "/Users/souravbanik/.android/build-cache/6acd7b8f9704a57448371c968b1d74f37f6253a2/output/res/drawable-ldpi-v4/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/svg_close.png",
+        "source": "/Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/res/drawable-ldpi-v4/svg_close.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_previous.png",
+        "source": "/Users/souravbanik/.android/build-cache/6acd7b8f9704a57448371c968b1d74f37f6253a2/output/res/drawable-ldpi-v4/exo_controls_previous.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_previous.png",
+        "source": "/Users/souravbanik/.android/build-cache/6acd7b8f9704a57448371c968b1d74f37f6253a2/output/res/drawable-ldpi-v4/exo_controls_previous.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/svg_close.png",
+        "source": "/Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/res/drawable-ldpi-v4/svg_close.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_pause.png",
+        "source": "/Users/souravbanik/.android/build-cache/6acd7b8f9704a57448371c968b1d74f37f6253a2/output/res/drawable-ldpi-v4/exo_controls_pause.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_next.png",
+        "source": "/Users/souravbanik/.android/build-cache/6acd7b8f9704a57448371c968b1d74f37f6253a2/output/res/drawable-ldpi-v4/exo_controls_next.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_pause.png",
+        "source": "/Users/souravbanik/.android/build-cache/6acd7b8f9704a57448371c968b1d74f37f6253a2/output/res/drawable-ldpi-v4/exo_controls_pause.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/vdopia_ic_exit_fullscreen_white.png",
+        "source": "/Users/souravbanik/.android/build-cache/a976a3ee56d240d4116fd7378b2cdedb166e2f8e/output/res/drawable-ldpi-v4/vdopia_ic_exit_fullscreen_white.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_edit_mode_logo.png",
+        "source": "/Users/souravbanik/.android/build-cache/6acd7b8f9704a57448371c968b1d74f37f6253a2/output/res/drawable-ldpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/vdopia_ic_exit_fullscreen_white.png",
+        "source": "/Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/res/drawable-ldpi-v4/vdopia_ic_exit_fullscreen_white.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_fastforward.png",
+        "source": "/Users/souravbanik/.android/build-cache/6acd7b8f9704a57448371c968b1d74f37f6253a2/output/res/drawable-ldpi-v4/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_rewind.png",
+        "source": "/Users/souravbanik/.android/build-cache/6acd7b8f9704a57448371c968b1d74f37f6253a2/output/res/drawable-ldpi-v4/exo_controls_rewind.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_next.png",
+        "source": "/Users/souravbanik/.android/build-cache/6acd7b8f9704a57448371c968b1d74f37f6253a2/output/res/drawable-ldpi-v4/exo_controls_next.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/vdopia_ic_enter_fullscreen_white.png",
+        "source": "/Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/res/drawable-ldpi-v4/vdopia_ic_enter_fullscreen_white.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/vdopia_ic_enter_fullscreen_white.png",
+        "source": "/Users/souravbanik/.android/build-cache/a976a3ee56d240d4116fd7378b2cdedb166e2f8e/output/res/drawable-ldpi-v4/vdopia_ic_enter_fullscreen_white.png"
+    }
+]

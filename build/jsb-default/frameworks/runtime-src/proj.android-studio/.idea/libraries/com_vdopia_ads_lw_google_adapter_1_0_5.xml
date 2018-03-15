@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.vdopia.ads.lw:google-adapter-1.0.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/a25d05fa9be03a3441abf9cce3a34c978f48e1db/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/a25d05fa9be03a3441abf9cce3a34c978f48e1db/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:id="@+id/root_container"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:background="@null">
+
+    <RelativeLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/blur_bg"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/transparent_black"/>
+        <FrameLayout
+            android:id="@+id/media_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true">
+
+            <ImageView
+                android:id="@+id/image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/ad_image_bg"/>
+
+            <ImageView
+                android:id="@+id/ad_corner_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:src="@drawable/ad"/>
+        </FrameLayout>
+
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/close"
+        android:layout_width="@dimen/v_close_size"
+        android:layout_height="@dimen/v_close_size"
+        android:padding="9dp"
+        android:layout_gravity="top|right"
+        android:scaleType="fitXY"
+        android:layout_marginRight="@dimen/v_screen_land_close_margin"
+        android:layout_marginTop="@dimen/v_screen_land_close_margin"
+        android:src="@drawable/close_dark"/>
+
+    <ImageView
+        android:id="@+id/replay"
+        android:layout_width="@dimen/v_close_size"
+        android:layout_height="@dimen/v_close_size"
+        android:padding="9dp"
+        android:visibility="gone"
+        android:scaleType="fitXY"
+        android:layout_gravity="top|left"
+        android:layout_marginLeft="@dimen/v_screen_land_close_margin"
+        android:layout_marginTop="@dimen/v_screen_land_close_margin"
+        android:src="@drawable/replay"/>
+
+</FrameLayout>

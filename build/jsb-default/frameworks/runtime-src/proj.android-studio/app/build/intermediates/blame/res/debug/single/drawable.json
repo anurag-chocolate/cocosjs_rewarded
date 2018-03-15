@@ -1,0 +1,602 @@
+[
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_star_sprite_4_5.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_star_sprite_4_5.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_star_sprite_1_5.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_star_sprite_1_5.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_star_sprite_3_5.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_star_sprite_3_5.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/btn_view_bg.xml",
+        "source": "/Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/res/drawable/btn_view_bg.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_star_sprite_0_5.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_star_sprite_0_5.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_star_sprite_2_5.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_star_sprite_2_5.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/ad_topic_item_bg.xml",
+        "source": "/Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/res/drawable/ad_topic_item_bg.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/tooltip_frame_dark.xml",
+        "source": "/Users/souravbanik/.android/build-cache/bc8ccdd21d876813dadcfd897bfed85f8fd790d6/output/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/v2_toolbox_card_btn_bg.xml",
+        "source": "/Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/res/drawable/v2_toolbox_card_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/exomedia_ic_rewind_white.xml",
+        "source": "/Users/souravbanik/.android/build-cache/059c1909429b4c4db87c8f3e841de9c45b6a6c77/output/res/drawable/exomedia_ic_rewind_white.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_card_learn_more.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_card_learn_more.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/ad_icon_bg.xml",
+        "source": "/Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/res/drawable/ad_icon_bg.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_star_sprite_3_0.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_star_sprite_3_0.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_star_sprite_1_0.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_star_sprite_1_0.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_star_sprite_5_0.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_star_sprite_5_0.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/exomedia_ic_fast_forward_white.xml",
+        "source": "/Users/souravbanik/.android/build-cache/059c1909429b4c4db87c8f3e841de9c45b6a6c77/output/res/drawable/exomedia_ic_fast_forward_white.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/exomedia_ic_play_arrow_white.xml",
+        "source": "/Users/souravbanik/.android/build-cache/059c1909429b4c4db87c8f3e841de9c45b6a6c77/output/res/drawable/exomedia_ic_play_arrow_white.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/ratingbar_progress_drawable.xml",
+        "source": "/Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/res/drawable/ratingbar_progress_drawable.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_card_muted.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_card_muted.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_card_replay.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_card_replay.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/ad_image_bg.xml",
+        "source": "/Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/res/drawable/ad_image_bg.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/exomedia_default_controls_text_background.xml",
+        "source": "/Users/souravbanik/.android/build-cache/059c1909429b4c4db87c8f3e841de9c45b6a6c77/output/res/drawable/exomedia_default_controls_text_background.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/tooltip_frame_light.xml",
+        "source": "/Users/souravbanik/.android/build-cache/bc8ccdd21d876813dadcfd897bfed85f8fd790d6/output/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/exomedia_default_controls_interactive_background.xml",
+        "source": "/Users/souravbanik/.android/build-cache/059c1909429b4c4db87c8f3e841de9c45b6a6c77/output/res/drawable/exomedia_default_controls_interactive_background.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/v_ad_callaction_rect_pressed_bg.xml",
+        "source": "/Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/res/drawable/v_ad_callaction_rect_pressed_bg.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/v2_toolbox_card_btn_bg.xml",
+        "source": "/Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/res/drawable/v2_toolbox_card_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/exomedia_ic_fast_forward_white.xml",
+        "source": "/Users/souravbanik/.android/build-cache/059c1909429b4c4db87c8f3e841de9c45b6a6c77/output/res/drawable/exomedia_ic_fast_forward_white.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_star_sprite_2_0.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_star_sprite_2_0.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_star_sprite_0.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_star_sprite_0.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_star_sprite_5_0.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_star_sprite_5_0.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/ad_image_bg.xml",
+        "source": "/Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/res/drawable/ad_image_bg.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/ratingbar_progress_drawable.xml",
+        "source": "/Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/res/drawable/ratingbar_progress_drawable.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/exomedia_ic_rewind_white.xml",
+        "source": "/Users/souravbanik/.android/build-cache/059c1909429b4c4db87c8f3e841de9c45b6a6c77/output/res/drawable/exomedia_ic_rewind_white.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_card_unmuted.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_card_unmuted.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_star_sprite_0_0.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_star_sprite_0_0.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_star_sprite_0_5.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_star_sprite_0_5.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_star_sprite_1_5.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_star_sprite_1_5.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_star_sprite_2_0.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_star_sprite_2_0.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_star_sprite_1_0.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_star_sprite_1_0.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/exomedia_ic_skip_next_white.xml",
+        "source": "/Users/souravbanik/.android/build-cache/059c1909429b4c4db87c8f3e841de9c45b6a6c77/output/res/drawable/exomedia_ic_skip_next_white.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_star_sprite_2_5.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_star_sprite_2_5.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_star_sprite_4_0.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_star_sprite_4_0.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_star_sprite_3_0.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_star_sprite_3_0.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_star_sprite_3_5.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_star_sprite_3_5.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_star_sprite_4_5.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_star_sprite_4_5.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_card_play.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_card_play.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/exomedia_default_controls_interactive_background.xml",
+        "source": "/Users/souravbanik/.android/build-cache/059c1909429b4c4db87c8f3e841de9c45b6a6c77/output/res/drawable/exomedia_default_controls_interactive_background.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_card_muted.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_card_muted.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/ad_topic_item_bg.xml",
+        "source": "/Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/res/drawable/ad_topic_item_bg.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/v_ad_callaction_rect_bg.xml",
+        "source": "/Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/res/drawable/v_ad_callaction_rect_bg.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/ad_icon_bg.xml",
+        "source": "/Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/res/drawable/ad_icon_bg.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/v_ad_callaction_rect_normal_bg.xml",
+        "source": "/Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/res/drawable/v_ad_callaction_rect_normal_bg.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/exomedia_ic_pause_white.xml",
+        "source": "/Users/souravbanik/.android/build-cache/059c1909429b4c4db87c8f3e841de9c45b6a6c77/output/res/drawable/exomedia_ic_pause_white.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_logo.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_logo.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/fb_banner_bg.xml",
+        "source": "/Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/res/drawable/fb_banner_bg.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/exomedia_ic_pause_white.xml",
+        "source": "/Users/souravbanik/.android/build-cache/059c1909429b4c4db87c8f3e841de9c45b6a6c77/output/res/drawable/exomedia_ic_pause_white.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/fb_banner_bg.xml",
+        "source": "/Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/res/drawable/fb_banner_bg.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/exomedia_ic_skip_previous_white.xml",
+        "source": "/Users/souravbanik/.android/build-cache/059c1909429b4c4db87c8f3e841de9c45b6a6c77/output/res/drawable/exomedia_ic_skip_previous_white.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_card_unmuted.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_card_unmuted.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/v_ad_callaction_rect_bg.xml",
+        "source": "/Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/res/drawable/v_ad_callaction_rect_bg.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_card_learn_more.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_card_learn_more.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/exomedia_ic_skip_previous_white.xml",
+        "source": "/Users/souravbanik/.android/build-cache/059c1909429b4c4db87c8f3e841de9c45b6a6c77/output/res/drawable/exomedia_ic_skip_previous_white.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/v_ad_callaction_rect_normal_bg.xml",
+        "source": "/Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/res/drawable/v_ad_callaction_rect_normal_bg.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/exomedia_ic_skip_next_white.xml",
+        "source": "/Users/souravbanik/.android/build-cache/059c1909429b4c4db87c8f3e841de9c45b6a6c77/output/res/drawable/exomedia_ic_skip_next_white.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_logo.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_logo.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/v_ad_callaction_rect_pressed_bg.xml",
+        "source": "/Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/res/drawable/v_ad_callaction_rect_pressed_bg.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_star_sprite_4_0.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_star_sprite_4_0.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_star_sprite_0_0.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_star_sprite_0_0.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/btn_view_bg.xml",
+        "source": "/Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/res/drawable/btn_view_bg.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/exomedia_default_controls_text_background.xml",
+        "source": "/Users/souravbanik/.android/build-cache/059c1909429b4c4db87c8f3e841de9c45b6a6c77/output/res/drawable/exomedia_default_controls_text_background.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_card_replay.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_card_replay.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_star_sprite_0.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_star_sprite_0.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/applovin_card_play.png",
+        "source": "/Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/res/drawable/applovin_card_play.png"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/drawable/exomedia_ic_play_arrow_white.xml",
+        "source": "/Users/souravbanik/.android/build-cache/059c1909429b4c4db87c8f3e841de9c45b6a6c77/output/res/drawable/exomedia_ic_play_arrow_white.xml"
+    }
+]

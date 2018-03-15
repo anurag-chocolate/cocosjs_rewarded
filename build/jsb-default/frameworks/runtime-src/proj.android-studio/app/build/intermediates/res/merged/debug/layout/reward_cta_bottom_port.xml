@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/content_layout"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/v_screen_port_content_height"
+    android:layout_gravity="bottom"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/v_screen_land_content_padding"
+    android:paddingRight="@dimen/v_screen_land_content_padding">
+
+    <com.duapps.ad.video.views.RoundImageView
+        android:id="@+id/icon"
+        android:layout_width="@dimen/v_screen_port_icon_size"
+        android:layout_height="@dimen/v_screen_port_icon_size"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/v_screen_port_icon_margin"
+        android:background="@drawable/ad_icon_bg"
+        android:scaleType="fitXY"/>
+
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:singleLine="true"
+        android:textColor="@color/v_text_color_white"
+        android:textSize="@dimen/v_text_size_title"/>
+
+    <TextView
+        android:id="@+id/desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:maxLines="2"
+        android:textColor="@color/v_text_color_white"
+        android:textSize="@dimen/v_text_size_desc"/>
+
+    <TextView
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="45dp"
+        android:background="@drawable/v_ad_callaction_rect_bg"
+        android:gravity="center"
+        android:paddingLeft="@dimen/v_screen_land_btn_padding"
+        android:paddingRight="@dimen/v_screen_land_btn_padding"
+        android:textColor="@color/v_text_color_white"
+        android:textSize="@dimen/v_text_size_btn"
+        android:textStyle="bold"/>
+
+</LinearLayout>

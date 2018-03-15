@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.vdopia.ads.lw:coresdk-2.5.2.12">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/cocos2d-x/cocos/platform/android/libcocos2dx/build/intermediates/bundles/default/libs/com.android.vending.expansion.zipfile.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3785cbb057b995cb42463158b1a798fcc78bb3b0">
+        <dex dex="/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/pre-dexed/debug/com.android.vending.expansion.zipfile_8378b9aecec3606187368b2354a78ec4ddb5b4f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/cocos2d-x/cocos/platform/android/libcocos2dx/build/intermediates/bundles/default/libs/httpclient-4.4.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="becf40a1a480be2a5ccb46529dce490f31b516d5">
+        <dex dex="/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/pre-dexed/debug/httpclient-4.4.1.1_36fd5976b1c26713c97d228835de6adda28f9e31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/cocos2d-x/cocos/platform/android/libcocos2dx/build/intermediates/bundles/default/libs/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="769f000c2940ab43578cd56ffcc81340aad0b182">
+        <dex dex="/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_d473d2205e0d37788f647d7658168299e6a0788d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/libs/mipmap-libPluginProtocol.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fc0ee57f5f4de184c51ab00af7d2adc97b7746a">
+        <dex dex="/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/pre-dexed/debug/mipmap-libPluginProtocol_a6ee5466a6c8a4fb0d89a774a82ce231eecc90bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/cocos2d-x/cocos/platform/android/libcocos2dx/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7e3f0014d14b64f7cd817c082a5baa4cb56c049">
+        <dex dex="/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/pre-dexed/debug/classes_e512f9085bf11a167cfb19aead0a754fb19536cc.jar" />
+    </item>
+
+</items>

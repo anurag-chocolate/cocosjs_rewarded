@@ -1,0 +1,7 @@
+#Thu Mar 15 13:32:36 IST 2018
+base.0=/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes2.dex
+base.1=/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+file.0=/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

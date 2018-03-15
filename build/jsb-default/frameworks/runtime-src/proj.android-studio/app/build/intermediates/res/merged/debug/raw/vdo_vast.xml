@@ -1,0 +1,123 @@
+<VAST version="2.0">
+    <Ad id="475852">
+        <InLine>
+            <AdSystem>
+                <![CDATA[ Ads by Vdopia ]]>
+            </AdSystem>
+            <AdTitle />
+            <Description />
+            <Survey />
+            <Error />
+            <Impression>
+                <![CDATA[
+https://trk.vdopia.com/adserver/iphonetrk/1dj5z44e1z942cac4c505c23f40ad24846e30085bbdbc5aa1d/vi
+]]>
+            </Impression>
+            <Creatives>
+                <Creative
+                    id="475852~preapp~null"
+                    sequence="1">
+                    <Linear>
+                        <Duration>00:00:29.95</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">
+                                <![CDATA[
+https://trk.vdopia.com/adserver/iphonetrk/1dj5z44e1z942cac4c505c23f40ad24846e30085bbdbc5aa1d/vi_0/[vdo_du]
+]]>
+                            </Tracking>
+                            <Tracking event="firstQuartile">
+                                <![CDATA[
+https://trk.vdopia.com/adserver/iphonetrk/1dj5z44e1z942cac4c505c23f40ad24846e30085bbdbc5aa1d/vi_25/[vdo_du]
+]]>
+                            </Tracking>
+                            <Tracking event="midpoint">
+                                <![CDATA[
+https://trk.vdopia.com/adserver/iphonetrk/1dj5z44e1z942cac4c505c23f40ad24846e30085bbdbc5aa1d/vi_50/[vdo_du]
+]]>
+                            </Tracking>
+                            <Tracking event="thirdQuartile">
+                                <![CDATA[
+https://trk.vdopia.com/adserver/iphonetrk/1dj5z44e1z942cac4c505c23f40ad24846e30085bbdbc5aa1d/vi_75/[vdo_du]
+]]>
+                            </Tracking>
+                            <Tracking event="complete">
+                                <![CDATA[
+https://trk.vdopia.com/adserver/iphonetrk/1dj5z44e1z942cac4c505c23f40ad24846e30085bbdbc5aa1d/ae/[vdo_du]
+]]>
+                            </Tracking>
+                            <Tracking event="close">
+                                <![CDATA[
+https://trk.vdopia.com/adserver/iphonetrk/1dj5z44e1z942cac4c505c23f40ad24846e30085bbdbc5aa1d/sk/[vdo_du]
+]]>
+                            </Tracking>
+                            <Tracking event="mute">
+                                <![CDATA[
+https://trk.vdopia.com/adserver/iphonetrk/1dj5z44e1z942cac4c505c23f40ad24846e30085bbdbc5aa1d/mu
+]]>
+                            </Tracking>
+                            <Tracking event="unmute">
+                                <![CDATA[
+https://trk.vdopia.com/adserver/iphonetrk/1dj5z44e1z942cac4c505c23f40ad24846e30085bbdbc5aa1d/um
+]]>
+                            </Tracking>
+                            <Tracking event="pause">
+                                <![CDATA[
+https://trk.vdopia.com/adserver/iphonetrk/1dj5z44e1z942cac4c505c23f40ad24846e30085bbdbc5aa1d/pa/[vdo_du]
+]]>
+                            </Tracking>
+                            <Tracking event="resume">
+                                <![CDATA[
+https://trk.vdopia.com/adserver/iphonetrk/1dj5z44e1z942cac4c505c23f40ad24846e30085bbdbc5aa1d/upa/[vdo_du]
+]]>
+                            </Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough>
+                                <![CDATA[
+https://trk.vdopia.com/adserver/iphonetrk/1dj5z44e1z942cac4c505c23f40ad24846e30085bbdbc5aa1d/cl/[vdo_du]&re=1
+]]>
+                            </ClickThrough>
+                            <ClickTracking />
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile
+                                bitrate="256"
+                                delivery="progressive"
+                                height="250"
+                                maintainAspectRatio="true"
+                                scalable="true"
+                                type="video/mp4"
+                                width="300">
+                                <![CDATA[
+https://cdn.vdopia.com/files/videos/13b9c85d2e4554cb29cc5d55d67998d5_a.mp4
+]]>
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+            <Extensions>
+                <LearnMoreText>
+                    <![CDATA[ Learn More ]]>
+                </LearnMoreText>
+                <AdsByText>
+                    <![CDATA[ Ads by Vdopia ]]>
+                </AdsByText>
+                <SkipAfterSeconds>
+                    <![CDATA[ 10 ]]>
+                </SkipAfterSeconds>
+                <Moat>
+                    <MoatOnOff>Off</MoatOnOff>
+                </Moat>
+                <Extension type="value">
+                    <Price
+                        model="CPM"
+                        source="Vdopia">1.9
+                    </Price>
+                    <Currency>USD</Currency>
+                    <PriorityLevel>1</PriorityLevel>
+                </Extension>
+            </Extensions>
+        </InLine>
+    </Ad>
+</VAST>

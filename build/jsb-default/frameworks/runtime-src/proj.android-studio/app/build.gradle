@@ -1,0 +1,215 @@
+import org.apache.tools.ant.taskdefs.condition.Os
+
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.0"
+
+    defaultConfig {
+        applicationId "org.cocos2d.helloworld"
+        minSdkVersion 19
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+
+        externalNativeBuild {
+            ndkBuild {
+                if (!project.hasProperty("PROP_NDK_MODE") || PROP_NDK_MODE.compareTo('none') != 0) {
+                    // skip the NDK Build step if PROP_NDK_MODE is none
+                    targets 'cocos2djs'
+                    arguments 'NDK_TOOLCHAIN_VERSION=4.9'
+                    arguments 'APP_PLATFORM=android-24'//+PROP_TARGET_SDK_VERSION
+                    
+                    def module_paths = [project.file("../../../cocos2d-x"),
+                                        project.file("../../../cocos2d-x/cocos"),
+                                        project.file("../../../cocos2d-x/external")]
+                    if (Os.isFamily(Os.FAMILY_WINDOWS)) {
+                        arguments 'NDK_MODULE_PATH=' + module_paths.join(";")
+                    }
+                    else {
+                        arguments 'NDK_MODULE_PATH=' + module_paths.join(':')
+                    }
+
+                    arguments 'NDK_OUT=./obj'
+                    
+                    arguments '-j' + Runtime.runtime.availableProcessors()
+                    abiFilters.addAll(PROP_APP_ABI.split(':').collect{it as String})
+                }
+            }
+        }
+    }
+
+    sourceSets.main {
+        java.srcDir "src"
+        res.srcDir "res"
+        jniLibs.srcDir "libs"
+        manifest.srcFile "AndroidManifest.xml"
+    }
+
+    externalNativeBuild {
+        ndkBuild {
+            if (!project.hasProperty("PROP_NDK_MODE") || PROP_NDK_MODE.compareTo('none') != 0) {
+                // skip the NDK Build step if PROP_NDK_MODE is none
+                path "jni/Android.mk"
+            }
+        }
+    }
+
+    signingConfigs {
+
+       release {
+            if (project.hasProperty("RELEASE_STORE_FILE")) {
+                storeFile file(RELEASE_STORE_FILE)
+                storePassword RELEASE_STORE_PASSWORD
+                keyAlias RELEASE_KEY_ALIAS
+                keyPassword RELEASE_KEY_PASSWORD
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            if (project.hasProperty("RELEASE_STORE_FILE")) {
+                signingConfig signingConfigs.release
+            }
+
+            externalNativeBuild {
+                ndkBuild {
+                    arguments 'NDK_DEBUG=0'
+                }
+            }
+        }
+
+        debug {
+            externalNativeBuild {
+                ndkBuild {
+                    arguments 'NDK_DEBUG=1'
+                }
+            }
+        }
+    }
+
+    dexOptions {
+        javaMaxHeapSize "4g"
+    }
+}
+
+android.applicationVariants.all { variant ->
+    // delete previous files first
+    delete "${buildDir}/intermediates/assets/${variant.dirName}"
+
+    variant.mergeAssets.doLast {
+        copy {
+           from "${buildDir}/../../../../../res"
+           into "${buildDir}/intermediates/assets/${variant.dirName}/res"
+        }
+
+        copy {
+            from "${buildDir}/../../../../../src"
+            into "${buildDir}/intermediates/assets/${variant.dirName}/src"
+        }
+
+        copy {
+            from "${buildDir}/../../../../../main.js"
+            from "${buildDir}/../../../../../project.json"
+            into "${buildDir}/intermediates/assets/${variant.dirName}"
+        }
+
+        copy {
+            from "../../../cocos2d-x/cocos/scripting/js-bindings/script"
+            into "${buildDir}/intermediates/assets/${variant.dirName}/script"
+        }
+    }
+}
+
+def copySo() {
+    copy {
+        from('./obj/local') {
+            include '**/*.so'
+            exclude '**/objs*'
+        }
+        into './libs'
+    }
+}
+
+afterEvaluate {
+    externalNativeBuildDebug.doLast {
+        println ('Copying debug .so')
+        copySo()
+    }
+
+    externalNativeBuildRelease.doLast {
+        println ('Copying release .so')
+        copySo()
+    }
+}
+
+repositories {
+    jcenter()
+    maven { url 'https://jitpack.io' }
+    maven { url "https://adcolony.bintray.com/AdColony" }
+    maven { url "https://dl.bintray.com/vdopiacorp/sdk" }
+    //maven { url "https://dl.bintray.com/vdopiaqa/sdk" }
+    maven { url "https://maven.google.com"}
+    maven { url "https://dl.bintray.com/ironsource-mobile/android-sdk" }
+    //google()
+    // If you're using a version of Gradle lower than 4.1, you must instead use:
+    // maven {
+    //     url 'https://maven.google.com'
+    // }
+
+}
+
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile project(':libcocos2dx')
+    compile("com.vdopia.ads.lw:coresdk:2.5.2.12")
+    compile("com.vdopia.ads.lw:adcolony-adapter:1.0.5")
+    compile("com.vdopia.ads.lw:applovin-adapter:1.0.5")
+    compile("com.vdopia.ads.lw:baidu-adapter:1.0.5")
+    compile("com.vdopia.ads.lw:chartboost-adapter:1.0.7")
+    compile("com.vdopia.ads.lw:facebook-adapter:1.0.5")
+    compile("com.vdopia.ads.lw:google-adapter:1.0.5")
+    compile("com.vdopia.ads.lw:inmobi-adapter:1.0.5")
+    compile("com.vdopia.ads.lw:ironsrc-adapter:1.0.5")
+    compile("com.vdopia.ads.lw:loopme-adapter:1.0.5")
+    compile("com.vdopia.ads.lw:cocos2dx-plugin:1.0.3")
+    compile("com.vdopia.ads.lw:mopub-adapter:1.0.6") {
+
+        //If you use your own version of exoplayer, uncomment below
+        //exclude group: 'com.google.android.exoplayer'
+
+    }
+
+    compile("com.vdopia.ads.lw:tapjoy-adapter:1.0.5")
+    compile("com.vdopia.ads.lw:unity-adapter:1.0.7")
+    compile("com.vdopia.ads.lw:vungle-adapter:1.0.5")
+    compile("com.vdopia.ads.lw:yahoo-adapter:1.0.5")
+
+    compile "com.google.android.gms:play-services-ads:11.6.2"
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile('com.devbrackets.android:exomedia:4.0.3') {
+
+        //If you use your own version of exoplayer, uncomment below
+        //exclude group: 'com.google.android.exoplayer'
+
+    }
+    compile ("com.android.support:palette-v7:25.0.0")
+}
+
+configurations.all {
+    resolutionStrategy.eachDependency { DependencyResolveDetails details ->
+        def requested = details.requested
+        if (requested.group == 'com.android.support') {
+            if (!requested.name.startsWith("multidex")) {
+                //You can use your own preferred version of Android Support Library
+                details.useVersion('25.0.0')
+            }
+        }
+    }
+}

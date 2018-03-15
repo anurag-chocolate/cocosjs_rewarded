@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/layout-v21/exomedia_default_controls_leanback.xml",
+        "source": "/Users/souravbanik/.android/build-cache/059c1909429b4c4db87c8f3e841de9c45b6a6c77/output/res/layout-v21/exomedia_default_controls_leanback.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/INT/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/layout-v21/exomedia_default_controls_leanback.xml",
+        "source": "/Users/souravbanik/.android/build-cache/059c1909429b4c4db87c8f3e841de9c45b6a6c77/output/res/layout-v21/exomedia_default_controls_leanback.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

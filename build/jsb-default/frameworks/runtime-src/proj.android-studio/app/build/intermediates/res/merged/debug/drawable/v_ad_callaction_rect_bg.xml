@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:state_enabled="true" android:drawable="@drawable/v_ad_callaction_rect_pressed_bg" />
+    <item android:state_pressed="false" android:state_enabled="true" android:drawable="@drawable/v_ad_callaction_rect_normal_bg"/>
+    <item android:drawable="@drawable/v_ad_callaction_rect_normal_bg" />
+</selector>

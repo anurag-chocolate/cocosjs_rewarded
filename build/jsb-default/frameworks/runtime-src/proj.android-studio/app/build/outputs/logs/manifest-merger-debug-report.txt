@@ -1,0 +1,714 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml
+		INJECTED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml
+		INJECTED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml
+		INJECTED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:4:5-35
+uses-feature#0x00020000
+ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:6:5-54
+	android:glEsVersion
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:6:19-51
+application
+ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:8:5-35:19
+MERGED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:23:5-33:19
+MERGED from [com.vdopia.ads.lw:adcolony-adapter:1.0.5] /Users/souravbanik/.android/build-cache/88e9b3f013b57928eeca98c3f401aa3829478e43/output/AndroidManifest.xml:23:5-34:19
+MERGED from [com.vdopia.ads.lw:applovin-adapter:1.0.5] /Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/AndroidManifest.xml:23:5-32:19
+MERGED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:29:5-70:19
+MERGED from [com.vdopia.ads.lw:chartboost-adapter:1.0.7] /Users/souravbanik/.android/build-cache/db3cb03f5701b229c5759aa5f97e7e10b8ca983f/output/AndroidManifest.xml:23:5-32:19
+MERGED from [com.vdopia.ads.lw:facebook-adapter:1.0.5] /Users/souravbanik/.android/build-cache/e7ba0c7dbe896e4c52d9c1ac8bc206b70a71efd2/output/AndroidManifest.xml:23:5-24:19
+MERGED from [com.facebook.android:audience-network-sdk:4.28.0] /Users/souravbanik/.android/build-cache/59bb728eb6e705cba09820a35c47ad63566ce9b4/output/AndroidManifest.xml:14:5-18:19
+MERGED from [com.vdopia.ads.lw:google-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a25d05fa9be03a3441abf9cce3a34c978f48e1db/output/AndroidManifest.xml:23:5-24:19
+MERGED from [com.vdopia.ads.lw:inmobi-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a038df08449a5cc0a478878dad2ba172e2959888/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.vdopia.ads.lw:ironsrc-adapter:1.0.5] /Users/souravbanik/.android/build-cache/d3c40f804410494a1a8544f021ae0c86dbf2cffa/output/AndroidManifest.xml:14:5-31:19
+MERGED from [com.vdopia.ads.lw:loopme-adapter:1.0.5] /Users/souravbanik/.android/build-cache/9b44dadaf715e2c2bc45626b363d34c95a2c6d5b/output/AndroidManifest.xml:29:5-30:19
+MERGED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:25:5-40:19
+MERGED from [com.vdopia.ads.lw:cocos2dx-plugin:1.0.3] /Users/souravbanik/.android/build-cache/1c08492c189b508887a3a8bdf3766f89c0642d71/output/AndroidManifest.xml:14:5-15:19
+MERGED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:24:5-42:19
+MERGED from [com.mopub:mopub-sdk:4.19.0] /Users/souravbanik/.android/build-cache/582a40c6439411b4f42c244056170fbc89a69893/output/AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-banner:4.19.0] /Users/souravbanik/.android/build-cache/216ef33fd30d8185c14a06e0b03ab3ab0cf54e03/output/AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-rewardedvideo:4.19.0] /Users/souravbanik/.android/build-cache/b200f1866ed8eb75faa7acea0110e53c20f52659/output/AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-interstitial:4.19.0] /Users/souravbanik/.android/build-cache/121af2570bf9c48421cb4033459031020e04ae79/output/AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-native-video:4.19.0] /Users/souravbanik/.android/build-cache/d4dd3a83614c6d1f28c07343e5f3c5626e658407/output/AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-native-static:4.19.0] /Users/souravbanik/.android/build-cache/57990e0007b5942dc1f6b634810a806b3322f2a3/output/AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-base:4.19.0] /Users/souravbanik/.android/build-cache/5573ed198baa06890ad719d853ed52f287c989cf/output/AndroidManifest.xml:11:5-20
+MERGED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:23:5-42:19
+MERGED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:23:5-46:19
+MERGED from [com.vdopia.ads.lw:vungle-adapter:1.0.5] /Users/souravbanik/.android/build-cache/4ffe7f80c60bd02d5744eb28a521d3eecc383fef/output/AndroidManifest.xml:23:5-34:19
+MERGED from [com.vdopia.ads.lw:yahoo-adapter:1.0.5] /Users/souravbanik/.android/build-cache/1c3199ca83dacf740c5dc2ea01c4d54cf1c14e75/output/AndroidManifest.xml:23:5-24:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.2] /Users/souravbanik/.android/build-cache/befa68744c2f6f6b40b4c4d29895cb042ae09bd5/output/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.6.2] /Users/souravbanik/.android/build-cache/1035fbea8e6a8c14155561822f916994221aa338/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass:11.6.2] /Users/souravbanik/.android/build-cache/8af57f3b74c13d4a2c139957378b24a80fa47cb1/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /Users/souravbanik/.android/build-cache/50c73fbbf82175542294611bc2c1763ea9d3b426/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] /Users/souravbanik/.android/build-cache/e097d12f6846ba70c932924415d460ceae79f108/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.6.2] /Users/souravbanik/.android/build-cache/d852fe63df32e0711d6daf4ccf958ba701402b09/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:11.6.2] /Users/souravbanik/.android/build-cache/ba819bfaf06959b7f882eac9b53c5f0480cfd597/output/AndroidManifest.xml:5:5-20
+MERGED from [com.devbrackets.android:exomedia:4.0.3] /Users/souravbanik/.android/build-cache/059c1909429b4c4db87c8f3e841de9c45b6a6c77/output/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] /Users/souravbanik/.android/build-cache/37d90d74501a2b6a7c6862f154a134b94cc4a086/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/souravbanik/.android/build-cache/0674ea696724cddfd18222d87cc63f0d469ec818/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/souravbanik/.android/build-cache/2cb9408d62fb6675c2563e2940a3690a27d0cbc8/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/souravbanik/.android/build-cache/080cbabf79a2e0327f1903c99633ec5ee446331a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/souravbanik/.android/build-cache/fa1bb0b28eccd38fb0714b99cc57fac1193ff2ac/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/souravbanik/.android/build-cache/2107bb36f2ce6e2fe646e2f6681209b9584dfa11/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:palette-v7:25.0.0] /Users/souravbanik/.android/build-cache/746035a23ef9a6d17ea7db026ae64ede7a82df12/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/souravbanik/.android/build-cache/1a37f5853b34af5a599057d7e651ca7ef5f48a59/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] /Users/souravbanik/.android/build-cache/046b69a84c20e731067b3251583895d5232e3696/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:10:9-41
+	android:hardwareAccelerated
+		ADDED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:23:18-52
+	android:allowBackup
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:11:9-43
+	android:name
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:12:9-68
+meta-data#android.app.lib_name
+ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:15:9-16:48
+	android:value
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:16:20-45
+	android:name
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:15:20-55
+activity#org.cocos2dx.javascript.AppActivity
+ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:18:9-29:20
+	android:screenOrientation
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:20:13-56
+	android:label
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:22:13-45
+	android:configChanges
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:21:13-74
+	android:theme
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:23:13-71
+	android:name
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:19:13-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:27:27-74
+meta-data#app_license
+ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:30:9-31:63
+	android:value
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:31:13-61
+	android:name
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:30:20-46
+provider#com.duapps.ad.stats.DuAdCacheProvider
+ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:32:9-34:50
+	android:authorities
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:33:13-69
+		INJECTED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml
+	android:exported
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:32:19-71
+uses-permission#android.permission.INTERNET
+ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:37:5-66
+MERGED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:adcolony-adapter:1.0.5] /Users/souravbanik/.android/build-cache/88e9b3f013b57928eeca98c3f401aa3829478e43/output/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:applovin-adapter:1.0.5] /Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:12:5-67
+MERGED from [com.vdopia.ads.lw:chartboost-adapter:1.0.7] /Users/souravbanik/.android/build-cache/db3cb03f5701b229c5759aa5f97e7e10b8ca983f/output/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:facebook-adapter:1.0.5] /Users/souravbanik/.android/build-cache/e7ba0c7dbe896e4c52d9c1ac8bc206b70a71efd2/output/AndroidManifest.xml:11:5-67
+MERGED from [com.facebook.android:audience-network-sdk:4.28.0] /Users/souravbanik/.android/build-cache/59bb728eb6e705cba09820a35c47ad63566ce9b4/output/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:google-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a25d05fa9be03a3441abf9cce3a34c978f48e1db/output/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:inmobi-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a038df08449a5cc0a478878dad2ba172e2959888/output/AndroidManifest.xml:12:5-67
+MERGED from [com.vdopia.ads.lw:ironsrc-adapter:1.0.5] /Users/souravbanik/.android/build-cache/d3c40f804410494a1a8544f021ae0c86dbf2cffa/output/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:loopme-adapter:1.0.5] /Users/souravbanik/.android/build-cache/9b44dadaf715e2c2bc45626b363d34c95a2c6d5b/output/AndroidManifest.xml:13:5-67
+MERGED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:13:5-67
+MERGED from [com.vdopia.ads.lw:cocos2dx-plugin:1.0.3] /Users/souravbanik/.android/build-cache/1c08492c189b508887a3a8bdf3766f89c0642d71/output/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:12:5-67
+MERGED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:vungle-adapter:1.0.5] /Users/souravbanik/.android/build-cache/4ffe7f80c60bd02d5744eb28a521d3eecc383fef/output/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:yahoo-adapter:1.0.5] /Users/souravbanik/.android/build-cache/1c3199ca83dacf740c5dc2ea01c4d54cf1c14e75/output/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.2] /Users/souravbanik/.android/build-cache/befa68744c2f6f6b40b4c4d29895cb042ae09bd5/output/AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:37:22-64
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:38:5-78
+	android:name
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:38:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:39:5-75
+MERGED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:14:5-76
+MERGED from [com.vdopia.ads.lw:adcolony-adapter:1.0.5] /Users/souravbanik/.android/build-cache/88e9b3f013b57928eeca98c3f401aa3829478e43/output/AndroidManifest.xml:14:5-76
+MERGED from [com.vdopia.ads.lw:applovin-adapter:1.0.5] /Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/AndroidManifest.xml:14:5-76
+MERGED from [com.vdopia.ads.lw:chartboost-adapter:1.0.7] /Users/souravbanik/.android/build-cache/db3cb03f5701b229c5759aa5f97e7e10b8ca983f/output/AndroidManifest.xml:14:5-76
+MERGED from [com.vdopia.ads.lw:facebook-adapter:1.0.5] /Users/souravbanik/.android/build-cache/e7ba0c7dbe896e4c52d9c1ac8bc206b70a71efd2/output/AndroidManifest.xml:14:5-76
+MERGED from [com.vdopia.ads.lw:google-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a25d05fa9be03a3441abf9cce3a34c978f48e1db/output/AndroidManifest.xml:14:5-76
+MERGED from [com.vdopia.ads.lw:inmobi-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a038df08449a5cc0a478878dad2ba172e2959888/output/AndroidManifest.xml:15:5-76
+MERGED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:15:5-76
+MERGED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:14:5-76
+MERGED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:14:5-76
+MERGED from [com.vdopia.ads.lw:vungle-adapter:1.0.5] /Users/souravbanik/.android/build-cache/4ffe7f80c60bd02d5744eb28a521d3eecc383fef/output/AndroidManifest.xml:14:5-76
+MERGED from [com.vdopia.ads.lw:yahoo-adapter:1.0.5] /Users/souravbanik/.android/build-cache/1c3199ca83dacf740c5dc2ea01c4d54cf1c14e75/output/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:39:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:40:5-78
+MERGED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:adcolony-adapter:1.0.5] /Users/souravbanik/.android/build-cache/88e9b3f013b57928eeca98c3f401aa3829478e43/output/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:applovin-adapter:1.0.5] /Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:13:5-79
+MERGED from [com.vdopia.ads.lw:chartboost-adapter:1.0.7] /Users/souravbanik/.android/build-cache/db3cb03f5701b229c5759aa5f97e7e10b8ca983f/output/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:facebook-adapter:1.0.5] /Users/souravbanik/.android/build-cache/e7ba0c7dbe896e4c52d9c1ac8bc206b70a71efd2/output/AndroidManifest.xml:12:5-79
+MERGED from [com.facebook.android:audience-network-sdk:4.28.0] /Users/souravbanik/.android/build-cache/59bb728eb6e705cba09820a35c47ad63566ce9b4/output/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:google-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a25d05fa9be03a3441abf9cce3a34c978f48e1db/output/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:inmobi-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a038df08449a5cc0a478878dad2ba172e2959888/output/AndroidManifest.xml:13:5-79
+MERGED from [com.vdopia.ads.lw:ironsrc-adapter:1.0.5] /Users/souravbanik/.android/build-cache/d3c40f804410494a1a8544f021ae0c86dbf2cffa/output/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:loopme-adapter:1.0.5] /Users/souravbanik/.android/build-cache/9b44dadaf715e2c2bc45626b363d34c95a2c6d5b/output/AndroidManifest.xml:14:5-79
+MERGED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:14:5-79
+MERGED from [com.vdopia.ads.lw:cocos2dx-plugin:1.0.3] /Users/souravbanik/.android/build-cache/1c08492c189b508887a3a8bdf3766f89c0642d71/output/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:13:5-79
+MERGED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:vungle-adapter:1.0.5] /Users/souravbanik/.android/build-cache/4ffe7f80c60bd02d5744eb28a521d3eecc383fef/output/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:yahoo-adapter:1.0.5] /Users/souravbanik/.android/build-cache/1c3199ca83dacf740c5dc2ea01c4d54cf1c14e75/output/AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.2] /Users/souravbanik/.android/build-cache/befa68744c2f6f6b40b4c4d29895cb042ae09bd5/output/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:40:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:41:5-75
+MERGED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:adcolony-adapter:1.0.5] /Users/souravbanik/.android/build-cache/88e9b3f013b57928eeca98c3f401aa3829478e43/output/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:applovin-adapter:1.0.5] /Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:11:5-76
+MERGED from [com.vdopia.ads.lw:chartboost-adapter:1.0.7] /Users/souravbanik/.android/build-cache/db3cb03f5701b229c5759aa5f97e7e10b8ca983f/output/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:facebook-adapter:1.0.5] /Users/souravbanik/.android/build-cache/e7ba0c7dbe896e4c52d9c1ac8bc206b70a71efd2/output/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:google-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a25d05fa9be03a3441abf9cce3a34c978f48e1db/output/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:inmobi-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a038df08449a5cc0a478878dad2ba172e2959888/output/AndroidManifest.xml:14:5-76
+MERGED from [com.vdopia.ads.lw:loopme-adapter:1.0.5] /Users/souravbanik/.android/build-cache/9b44dadaf715e2c2bc45626b363d34c95a2c6d5b/output/AndroidManifest.xml:15:5-76
+MERGED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:15:5-76
+MERGED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:14:5-76
+MERGED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:vungle-adapter:1.0.5] /Users/souravbanik/.android/build-cache/4ffe7f80c60bd02d5744eb28a521d3eecc383fef/output/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:yahoo-adapter:1.0.5] /Users/souravbanik/.android/build-cache/1c3199ca83dacf740c5dc2ea01c4d54cf1c14e75/output/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:41:22-73
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:43:5-83
+	android:name
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:43:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:44:5-80
+MERGED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:44:22-78
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:45:5-75
+	android:name
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:45:22-72
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:46:5-84
+	android:name
+		ADDED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml:46:22-81
+uses-sdk
+INJECTED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] /Users/souravbanik/.android/build-cache/00708c1a6eadba584303dba1507ef44618086cb5/output/AndroidManifest.xml:18:5-42
+MERGED from [proj.android-studio:libcocos2dx:unspecified] /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/cocos2d-x/cocos/platform/android/libcocos2dx/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:adcolony-adapter:1.0.5] /Users/souravbanik/.android/build-cache/88e9b3f013b57928eeca98c3f401aa3829478e43/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.adcolony:sdk:3.2.1] /Users/souravbanik/.android/build-cache/7468df049d402ecd5557a12a398d7e43a6f0af6d/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:applovin-adapter:1.0.5] /Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:chartboost-adapter:1.0.7] /Users/souravbanik/.android/build-cache/db3cb03f5701b229c5759aa5f97e7e10b8ca983f/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:facebook-adapter:1.0.5] /Users/souravbanik/.android/build-cache/e7ba0c7dbe896e4c52d9c1ac8bc206b70a71efd2/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:audience-network-sdk:4.28.0] /Users/souravbanik/.android/build-cache/59bb728eb6e705cba09820a35c47ad63566ce9b4/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:google-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a25d05fa9be03a3441abf9cce3a34c978f48e1db/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:inmobi-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a038df08449a5cc0a478878dad2ba172e2959888/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.vdopia.ads.lw:ironsrc-adapter:1.0.5] /Users/souravbanik/.android/build-cache/d3c40f804410494a1a8544f021ae0c86dbf2cffa/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:loopme-adapter:1.0.5] /Users/souravbanik/.android/build-cache/9b44dadaf715e2c2bc45626b363d34c95a2c6d5b/output/AndroidManifest.xml:8:5-11:46
+MERGED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.vdopia.ads.lw:cocos2dx-plugin:1.0.3] /Users/souravbanik/.android/build-cache/1c08492c189b508887a3a8bdf3766f89c0642d71/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mopub:mopub-sdk:4.19.0] /Users/souravbanik/.android/build-cache/582a40c6439411b4f42c244056170fbc89a69893/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-banner:4.19.0] /Users/souravbanik/.android/build-cache/216ef33fd30d8185c14a06e0b03ab3ab0cf54e03/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-rewardedvideo:4.19.0] /Users/souravbanik/.android/build-cache/b200f1866ed8eb75faa7acea0110e53c20f52659/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-interstitial:4.19.0] /Users/souravbanik/.android/build-cache/121af2570bf9c48421cb4033459031020e04ae79/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-native-video:4.19.0] /Users/souravbanik/.android/build-cache/d4dd3a83614c6d1f28c07343e5f3c5626e658407/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-native-static:4.19.0] /Users/souravbanik/.android/build-cache/57990e0007b5942dc1f6b634810a806b3322f2a3/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-base:4.19.0] /Users/souravbanik/.android/build-cache/5573ed198baa06890ad719d853ed52f287c989cf/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:25.0.0] /Users/souravbanik/.android/build-cache/07a74cdd1cc6e5548a8d0c737fdd25bdc4af01dd/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.exoplayer:exoplayer:r2.4.4] /Users/souravbanik/.android/build-cache/d8f032f8b76658d07ad1768742c4f27edd5ebb4b/output/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:r2.4.4] /Users/souravbanik/.android/build-cache/6acd7b8f9704a57448371c968b1d74f37f6253a2/output/AndroidManifest.xml:21:5-23:41
+MERGED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:vungle-adapter:1.0.5] /Users/souravbanik/.android/build-cache/4ffe7f80c60bd02d5744eb28a521d3eecc383fef/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:yahoo-adapter:1.0.5] /Users/souravbanik/.android/build-cache/1c3199ca83dacf740c5dc2ea01c4d54cf1c14e75/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-ads:11.6.2] /Users/souravbanik/.android/build-cache/5dd8466bf7a0d222a24d68980c46ddf666f7e526/output/AndroidManifest.xml:17:5-94
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.2] /Users/souravbanik/.android/build-cache/befa68744c2f6f6b40b4c4d29895cb042ae09bd5/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.6.2] /Users/souravbanik/.android/build-cache/1035fbea8e6a8c14155561822f916994221aa338/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.6.2] /Users/souravbanik/.android/build-cache/8af57f3b74c13d4a2c139957378b24a80fa47cb1/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /Users/souravbanik/.android/build-cache/50c73fbbf82175542294611bc2c1763ea9d3b426/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] /Users/souravbanik/.android/build-cache/e097d12f6846ba70c932924415d460ceae79f108/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.6.2] /Users/souravbanik/.android/build-cache/d852fe63df32e0711d6daf4ccf958ba701402b09/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-license:11.6.2] /Users/souravbanik/.android/build-cache/ba819bfaf06959b7f882eac9b53c5f0480cfd597/output/AndroidManifest.xml:4:5-43
+MERGED from [com.devbrackets.android:exomedia:4.0.3] /Users/souravbanik/.android/build-cache/059c1909429b4c4db87c8f3e841de9c45b6a6c77/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/souravbanik/.android/build-cache/7b4de2a6a1798448c68d7750519ad3d32f02c3e7/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.0] /Users/souravbanik/.android/build-cache/37d90d74501a2b6a7c6862f154a134b94cc4a086/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/souravbanik/.android/build-cache/0674ea696724cddfd18222d87cc63f0d469ec818/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/souravbanik/.android/build-cache/2cb9408d62fb6675c2563e2940a3690a27d0cbc8/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/souravbanik/.android/build-cache/080cbabf79a2e0327f1903c99633ec5ee446331a/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/souravbanik/.android/build-cache/fa1bb0b28eccd38fb0714b99cc57fac1193ff2ac/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/souravbanik/.android/build-cache/2107bb36f2ce6e2fe646e2f6681209b9584dfa11/output/AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.4] /Users/souravbanik/.android/build-cache/670b34150250f7b6b804811d29733c960f865c4b/output/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:r2.4.4] /Users/souravbanik/.android/build-cache/b1c6815770794f5fb6c43fc0b8fe3228c7806882/output/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:r2.4.4] /Users/souravbanik/.android/build-cache/234fb09f9d5faccf3c357a7e5fb1ca90b4b72845/output/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.4] /Users/souravbanik/.android/build-cache/4219e995702e69d9e1975890a74f3391f78e4412/output/AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:palette-v7:25.0.0] /Users/souravbanik/.android/build-cache/746035a23ef9a6d17ea7db026ae64ede7a82df12/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/souravbanik/.android/build-cache/1a37f5853b34af5a599057d7e651ca7ef5f48a59/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.0] /Users/souravbanik/.android/build-cache/046b69a84c20e731067b3251583895d5232e3696/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.vdopia.ads.lw:loopme-adapter:1.0.5] /Users/souravbanik/.android/build-cache/9b44dadaf715e2c2bc45626b363d34c95a2c6d5b/output/AndroidManifest.xml:11:9-43
+	android:targetSdkVersion
+		INJECTED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml
+		INJECTED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml
+		INJECTED from /Users/souravbanik/Documents/cocos2dx/jan2018/rewarded/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml
+uses-permission#android.permission.SEND_SMS
+ADDED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:15:5-67
+MERGED from [com.vdopia.ads.lw:adcolony-adapter:1.0.5] /Users/souravbanik/.android/build-cache/88e9b3f013b57928eeca98c3f401aa3829478e43/output/AndroidManifest.xml:15:5-67
+MERGED from [com.vdopia.ads.lw:applovin-adapter:1.0.5] /Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/AndroidManifest.xml:15:5-67
+MERGED from [com.vdopia.ads.lw:chartboost-adapter:1.0.7] /Users/souravbanik/.android/build-cache/db3cb03f5701b229c5759aa5f97e7e10b8ca983f/output/AndroidManifest.xml:15:5-67
+MERGED from [com.vdopia.ads.lw:facebook-adapter:1.0.5] /Users/souravbanik/.android/build-cache/e7ba0c7dbe896e4c52d9c1ac8bc206b70a71efd2/output/AndroidManifest.xml:15:5-67
+MERGED from [com.vdopia.ads.lw:google-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a25d05fa9be03a3441abf9cce3a34c978f48e1db/output/AndroidManifest.xml:15:5-67
+MERGED from [com.vdopia.ads.lw:inmobi-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a038df08449a5cc0a478878dad2ba172e2959888/output/AndroidManifest.xml:16:5-67
+MERGED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:16:5-67
+MERGED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:15:5-67
+MERGED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:15:5-67
+MERGED from [com.vdopia.ads.lw:vungle-adapter:1.0.5] /Users/souravbanik/.android/build-cache/4ffe7f80c60bd02d5744eb28a521d3eecc383fef/output/AndroidManifest.xml:15:5-67
+MERGED from [com.vdopia.ads.lw:yahoo-adapter:1.0.5] /Users/souravbanik/.android/build-cache/1c3199ca83dacf740c5dc2ea01c4d54cf1c14e75/output/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:15:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:16:5-69
+MERGED from [com.vdopia.ads.lw:adcolony-adapter:1.0.5] /Users/souravbanik/.android/build-cache/88e9b3f013b57928eeca98c3f401aa3829478e43/output/AndroidManifest.xml:16:5-69
+MERGED from [com.vdopia.ads.lw:applovin-adapter:1.0.5] /Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/AndroidManifest.xml:16:5-69
+MERGED from [com.vdopia.ads.lw:chartboost-adapter:1.0.7] /Users/souravbanik/.android/build-cache/db3cb03f5701b229c5759aa5f97e7e10b8ca983f/output/AndroidManifest.xml:16:5-69
+MERGED from [com.vdopia.ads.lw:facebook-adapter:1.0.5] /Users/souravbanik/.android/build-cache/e7ba0c7dbe896e4c52d9c1ac8bc206b70a71efd2/output/AndroidManifest.xml:16:5-69
+MERGED from [com.vdopia.ads.lw:google-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a25d05fa9be03a3441abf9cce3a34c978f48e1db/output/AndroidManifest.xml:16:5-69
+MERGED from [com.vdopia.ads.lw:inmobi-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a038df08449a5cc0a478878dad2ba172e2959888/output/AndroidManifest.xml:17:5-69
+MERGED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:17:5-69
+MERGED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:16:5-69
+MERGED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:16:5-69
+MERGED from [com.vdopia.ads.lw:vungle-adapter:1.0.5] /Users/souravbanik/.android/build-cache/4ffe7f80c60bd02d5744eb28a521d3eecc383fef/output/AndroidManifest.xml:16:5-69
+MERGED from [com.vdopia.ads.lw:yahoo-adapter:1.0.5] /Users/souravbanik/.android/build-cache/1c3199ca83dacf740c5dc2ea01c4d54cf1c14e75/output/AndroidManifest.xml:16:5-69
+	android:name
+		ADDED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:16:22-66
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:17:5-75
+MERGED from [com.vdopia.ads.lw:adcolony-adapter:1.0.5] /Users/souravbanik/.android/build-cache/88e9b3f013b57928eeca98c3f401aa3829478e43/output/AndroidManifest.xml:17:5-75
+MERGED from [com.vdopia.ads.lw:applovin-adapter:1.0.5] /Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/AndroidManifest.xml:17:5-75
+MERGED from [com.vdopia.ads.lw:chartboost-adapter:1.0.7] /Users/souravbanik/.android/build-cache/db3cb03f5701b229c5759aa5f97e7e10b8ca983f/output/AndroidManifest.xml:17:5-75
+MERGED from [com.vdopia.ads.lw:facebook-adapter:1.0.5] /Users/souravbanik/.android/build-cache/e7ba0c7dbe896e4c52d9c1ac8bc206b70a71efd2/output/AndroidManifest.xml:17:5-75
+MERGED from [com.vdopia.ads.lw:google-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a25d05fa9be03a3441abf9cce3a34c978f48e1db/output/AndroidManifest.xml:17:5-75
+MERGED from [com.vdopia.ads.lw:inmobi-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a038df08449a5cc0a478878dad2ba172e2959888/output/AndroidManifest.xml:18:5-75
+MERGED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:20:5-75
+MERGED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:18:5-75
+MERGED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:17:5-75
+MERGED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:17:5-75
+MERGED from [com.vdopia.ads.lw:vungle-adapter:1.0.5] /Users/souravbanik/.android/build-cache/4ffe7f80c60bd02d5744eb28a521d3eecc383fef/output/AndroidManifest.xml:17:5-75
+MERGED from [com.vdopia.ads.lw:yahoo-adapter:1.0.5] /Users/souravbanik/.android/build-cache/1c3199ca83dacf740c5dc2ea01c4d54cf1c14e75/output/AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:17:22-72
+uses-permission#android.permission.READ_CALENDAR
+ADDED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:18:5-72
+MERGED from [com.vdopia.ads.lw:adcolony-adapter:1.0.5] /Users/souravbanik/.android/build-cache/88e9b3f013b57928eeca98c3f401aa3829478e43/output/AndroidManifest.xml:18:5-72
+MERGED from [com.vdopia.ads.lw:applovin-adapter:1.0.5] /Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/AndroidManifest.xml:18:5-72
+MERGED from [com.vdopia.ads.lw:chartboost-adapter:1.0.7] /Users/souravbanik/.android/build-cache/db3cb03f5701b229c5759aa5f97e7e10b8ca983f/output/AndroidManifest.xml:18:5-72
+MERGED from [com.vdopia.ads.lw:facebook-adapter:1.0.5] /Users/souravbanik/.android/build-cache/e7ba0c7dbe896e4c52d9c1ac8bc206b70a71efd2/output/AndroidManifest.xml:18:5-72
+MERGED from [com.vdopia.ads.lw:google-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a25d05fa9be03a3441abf9cce3a34c978f48e1db/output/AndroidManifest.xml:18:5-72
+MERGED from [com.vdopia.ads.lw:inmobi-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a038df08449a5cc0a478878dad2ba172e2959888/output/AndroidManifest.xml:19:5-72
+MERGED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:19:5-72
+MERGED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:18:5-72
+MERGED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:18:5-72
+MERGED from [com.vdopia.ads.lw:vungle-adapter:1.0.5] /Users/souravbanik/.android/build-cache/4ffe7f80c60bd02d5744eb28a521d3eecc383fef/output/AndroidManifest.xml:18:5-72
+MERGED from [com.vdopia.ads.lw:yahoo-adapter:1.0.5] /Users/souravbanik/.android/build-cache/1c3199ca83dacf740c5dc2ea01c4d54cf1c14e75/output/AndroidManifest.xml:18:5-72
+	android:name
+		ADDED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:18:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:19:5-73
+MERGED from [com.vdopia.ads.lw:adcolony-adapter:1.0.5] /Users/souravbanik/.android/build-cache/88e9b3f013b57928eeca98c3f401aa3829478e43/output/AndroidManifest.xml:19:5-73
+MERGED from [com.vdopia.ads.lw:applovin-adapter:1.0.5] /Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/AndroidManifest.xml:19:5-73
+MERGED from [com.vdopia.ads.lw:chartboost-adapter:1.0.7] /Users/souravbanik/.android/build-cache/db3cb03f5701b229c5759aa5f97e7e10b8ca983f/output/AndroidManifest.xml:19:5-73
+MERGED from [com.vdopia.ads.lw:facebook-adapter:1.0.5] /Users/souravbanik/.android/build-cache/e7ba0c7dbe896e4c52d9c1ac8bc206b70a71efd2/output/AndroidManifest.xml:19:5-73
+MERGED from [com.vdopia.ads.lw:google-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a25d05fa9be03a3441abf9cce3a34c978f48e1db/output/AndroidManifest.xml:19:5-73
+MERGED from [com.vdopia.ads.lw:inmobi-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a038df08449a5cc0a478878dad2ba172e2959888/output/AndroidManifest.xml:20:5-73
+MERGED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:20:5-73
+MERGED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:19:5-73
+MERGED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:19:5-73
+MERGED from [com.vdopia.ads.lw:vungle-adapter:1.0.5] /Users/souravbanik/.android/build-cache/4ffe7f80c60bd02d5744eb28a521d3eecc383fef/output/AndroidManifest.xml:19:5-73
+MERGED from [com.vdopia.ads.lw:yahoo-adapter:1.0.5] /Users/souravbanik/.android/build-cache/1c3199ca83dacf740c5dc2ea01c4d54cf1c14e75/output/AndroidManifest.xml:19:5-73
+	android:name
+		ADDED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:19:22-70
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:20:5-79
+MERGED from [com.vdopia.ads.lw:adcolony-adapter:1.0.5] /Users/souravbanik/.android/build-cache/88e9b3f013b57928eeca98c3f401aa3829478e43/output/AndroidManifest.xml:20:5-79
+MERGED from [com.vdopia.ads.lw:applovin-adapter:1.0.5] /Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/AndroidManifest.xml:20:5-79
+MERGED from [com.vdopia.ads.lw:chartboost-adapter:1.0.7] /Users/souravbanik/.android/build-cache/db3cb03f5701b229c5759aa5f97e7e10b8ca983f/output/AndroidManifest.xml:20:5-79
+MERGED from [com.vdopia.ads.lw:facebook-adapter:1.0.5] /Users/souravbanik/.android/build-cache/e7ba0c7dbe896e4c52d9c1ac8bc206b70a71efd2/output/AndroidManifest.xml:20:5-79
+MERGED from [com.vdopia.ads.lw:google-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a25d05fa9be03a3441abf9cce3a34c978f48e1db/output/AndroidManifest.xml:20:5-79
+MERGED from [com.vdopia.ads.lw:inmobi-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a038df08449a5cc0a478878dad2ba172e2959888/output/AndroidManifest.xml:21:5-79
+MERGED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:17:5-79
+MERGED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:21:5-79
+MERGED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:20:5-79
+MERGED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:20:5-79
+MERGED from [com.vdopia.ads.lw:vungle-adapter:1.0.5] /Users/souravbanik/.android/build-cache/4ffe7f80c60bd02d5744eb28a521d3eecc383fef/output/AndroidManifest.xml:20:5-79
+MERGED from [com.vdopia.ads.lw:yahoo-adapter:1.0.5] /Users/souravbanik/.android/build-cache/1c3199ca83dacf740c5dc2ea01c4d54cf1c14e75/output/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:20:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:21:5-81
+MERGED from [com.vdopia.ads.lw:adcolony-adapter:1.0.5] /Users/souravbanik/.android/build-cache/88e9b3f013b57928eeca98c3f401aa3829478e43/output/AndroidManifest.xml:21:5-81
+MERGED from [com.vdopia.ads.lw:applovin-adapter:1.0.5] /Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/AndroidManifest.xml:21:5-81
+MERGED from [com.vdopia.ads.lw:chartboost-adapter:1.0.7] /Users/souravbanik/.android/build-cache/db3cb03f5701b229c5759aa5f97e7e10b8ca983f/output/AndroidManifest.xml:21:5-81
+MERGED from [com.vdopia.ads.lw:facebook-adapter:1.0.5] /Users/souravbanik/.android/build-cache/e7ba0c7dbe896e4c52d9c1ac8bc206b70a71efd2/output/AndroidManifest.xml:21:5-81
+MERGED from [com.vdopia.ads.lw:google-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a25d05fa9be03a3441abf9cce3a34c978f48e1db/output/AndroidManifest.xml:21:5-81
+MERGED from [com.vdopia.ads.lw:inmobi-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a038df08449a5cc0a478878dad2ba172e2959888/output/AndroidManifest.xml:22:5-81
+MERGED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:16:5-81
+MERGED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:22:5-81
+MERGED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:21:5-81
+MERGED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:21:5-81
+MERGED from [com.vdopia.ads.lw:vungle-adapter:1.0.5] /Users/souravbanik/.android/build-cache/4ffe7f80c60bd02d5744eb28a521d3eecc383fef/output/AndroidManifest.xml:21:5-81
+MERGED from [com.vdopia.ads.lw:yahoo-adapter:1.0.5] /Users/souravbanik/.android/build-cache/1c3199ca83dacf740c5dc2ea01c4d54cf1c14e75/output/AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:21:22-78
+activity#com.vdopia.ads.lw.LVDOAdActivity
+ADDED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:26:9-29:75
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:27:13-60
+activity#com.vdopia.ads.lw.mraid.VDOBrowserActivity
+ADDED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:30:9-32:125
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:32:13-122
+	android:name
+		ADDED from [com.vdopia.ads.lw:coresdk:2.5.2.12] /Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/AndroidManifest.xml:31:13-70
+activity#com.adcolony.sdk.AdColonyInterstitialActivity
+ADDED from [com.vdopia.ads.lw:adcolony-adapter:1.0.5] /Users/souravbanik/.android/build-cache/88e9b3f013b57928eeca98c3f401aa3829478e43/output/AndroidManifest.xml:26:9-29:50
+	android:hardwareAccelerated
+		ADDED from [com.vdopia.ads.lw:adcolony-adapter:1.0.5] /Users/souravbanik/.android/build-cache/88e9b3f013b57928eeca98c3f401aa3829478e43/output/AndroidManifest.xml:29:13-47
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:adcolony-adapter:1.0.5] /Users/souravbanik/.android/build-cache/88e9b3f013b57928eeca98c3f401aa3829478e43/output/AndroidManifest.xml:28:13-122
+	android:name
+		ADDED from [com.vdopia.ads.lw:adcolony-adapter:1.0.5] /Users/souravbanik/.android/build-cache/88e9b3f013b57928eeca98c3f401aa3829478e43/output/AndroidManifest.xml:27:13-73
+activity#com.adcolony.sdk.AdColonyAdViewActivity
+ADDED from [com.vdopia.ads.lw:adcolony-adapter:1.0.5] /Users/souravbanik/.android/build-cache/88e9b3f013b57928eeca98c3f401aa3829478e43/output/AndroidManifest.xml:30:9-33:50
+	android:hardwareAccelerated
+		ADDED from [com.vdopia.ads.lw:adcolony-adapter:1.0.5] /Users/souravbanik/.android/build-cache/88e9b3f013b57928eeca98c3f401aa3829478e43/output/AndroidManifest.xml:33:13-47
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:adcolony-adapter:1.0.5] /Users/souravbanik/.android/build-cache/88e9b3f013b57928eeca98c3f401aa3829478e43/output/AndroidManifest.xml:32:13-122
+	android:name
+		ADDED from [com.vdopia.ads.lw:adcolony-adapter:1.0.5] /Users/souravbanik/.android/build-cache/88e9b3f013b57928eeca98c3f401aa3829478e43/output/AndroidManifest.xml:31:13-67
+activity#com.applovin.adview.AppLovinInterstitialActivity
+ADDED from [com.vdopia.ads.lw:applovin-adapter:1.0.5] /Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/AndroidManifest.xml:26:9-28:62
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:applovin-adapter:1.0.5] /Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from [com.vdopia.ads.lw:applovin-adapter:1.0.5] /Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/AndroidManifest.xml:27:13-76
+activity#com.applovin.adview.AppLovinConfirmationActivity
+ADDED from [com.vdopia.ads.lw:applovin-adapter:1.0.5] /Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/AndroidManifest.xml:29:9-31:62
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:applovin-adapter:1.0.5] /Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/AndroidManifest.xml:31:13-59
+	android:name
+		ADDED from [com.vdopia.ads.lw:applovin-adapter:1.0.5] /Users/souravbanik/.android/build-cache/5a1ff2dcd4a5a3222ac7af17dab2c372d0d4fc28/output/AndroidManifest.xml:30:13-76
+activity#com.duapps.ad.video.VideoFullScreenActivity
+ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:42:9-46:54
+	android:hardwareAccelerated
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:45:13-47
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:44:13-122
+	android:theme
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:46:13-51
+	android:name
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:43:13-71
+receiver#com.duapps.ad.video.NetworkStateReceiver
+ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:48:9-54:20
+	android:name
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:48:19-74
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE+android.net.wifi.STATE_CHANGE+android.net.wifi.WIFI_STATE_CHANGED
+ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:49:13-53:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:50:17-79
+	android:name
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:50:25-76
+action#android.net.wifi.WIFI_STATE_CHANGED
+ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:51:17-78
+	android:name
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:51:25-75
+action#android.net.wifi.STATE_CHANGE
+ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:52:17-72
+	android:name
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:52:25-69
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:56:9-59:64
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.2] /Users/souravbanik/.android/build-cache/befa68744c2f6f6b40b4c4d29895cb042ae09bd5/output/AndroidManifest.xml:25:9-257
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.6.2] /Users/souravbanik/.android/build-cache/befa68744c2f6f6b40b4c4d29895cb042ae09bd5/output/AndroidManifest.xml:25:231-255
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:58:13-122
+	android:theme
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:59:13-61
+	android:name
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:57:13-65
+receiver#com.duapps.ad.base.PackageAddReceiver
+ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:61:9-67:20
+	android:name
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:61:19-71
+intent-filter#android.intent.action.PACKAGE_ADDED
+ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:62:13-66:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:63:17-78
+	android:name
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:63:25-75
+data
+ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:65:17-50
+	android:scheme
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.5] /Users/souravbanik/.android/build-cache/c5dcb1c50ab2eed7457df77a7165b98162563df1/output/AndroidManifest.xml:65:23-47
+activity#com.chartboost.sdk.CBImpressionActivity
+ADDED from [com.vdopia.ads.lw:chartboost-adapter:1.0.7] /Users/souravbanik/.android/build-cache/db3cb03f5701b229c5759aa5f97e7e10b8ca983f/output/AndroidManifest.xml:26:9-31:86
+	android:excludeFromRecents
+		ADDED from [com.vdopia.ads.lw:chartboost-adapter:1.0.7] /Users/souravbanik/.android/build-cache/db3cb03f5701b229c5759aa5f97e7e10b8ca983f/output/AndroidManifest.xml:29:13-46
+	android:hardwareAccelerated
+		ADDED from [com.vdopia.ads.lw:chartboost-adapter:1.0.7] /Users/souravbanik/.android/build-cache/db3cb03f5701b229c5759aa5f97e7e10b8ca983f/output/AndroidManifest.xml:30:13-47
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:chartboost-adapter:1.0.7] /Users/souravbanik/.android/build-cache/db3cb03f5701b229c5759aa5f97e7e10b8ca983f/output/AndroidManifest.xml:28:13-106
+	android:theme
+		ADDED from [com.vdopia.ads.lw:chartboost-adapter:1.0.7] /Users/souravbanik/.android/build-cache/db3cb03f5701b229c5759aa5f97e7e10b8ca983f/output/AndroidManifest.xml:31:13-83
+	android:name
+		ADDED from [com.vdopia.ads.lw:chartboost-adapter:1.0.7] /Users/souravbanik/.android/build-cache/db3cb03f5701b229c5759aa5f97e7e10b8ca983f/output/AndroidManifest.xml:27:13-67
+activity#com.facebook.ads.AudienceNetworkActivity
+ADDED from [com.facebook.android:audience-network-sdk:4.28.0] /Users/souravbanik/.android/build-cache/59bb728eb6e705cba09820a35c47ad63566ce9b4/output/AndroidManifest.xml:15:9-17:77
+	android:configChanges
+		ADDED from [com.facebook.android:audience-network-sdk:4.28.0] /Users/souravbanik/.android/build-cache/59bb728eb6e705cba09820a35c47ad63566ce9b4/output/AndroidManifest.xml:17:13-74
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:4.28.0] /Users/souravbanik/.android/build-cache/59bb728eb6e705cba09820a35c47ad63566ce9b4/output/AndroidManifest.xml:16:13-68
+activity#com.inmobi.rendering.InMobiAdActivity
+ADDED from [com.vdopia.ads.lw:inmobi-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a038df08449a5cc0a478878dad2ba172e2959888/output/AndroidManifest.xml:27:9-33:46
+	android:hardwareAccelerated
+		ADDED from [com.vdopia.ads.lw:inmobi-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a038df08449a5cc0a478878dad2ba172e2959888/output/AndroidManifest.xml:30:13-47
+	android:resizeableActivity
+		ADDED from [com.vdopia.ads.lw:inmobi-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a038df08449a5cc0a478878dad2ba172e2959888/output/AndroidManifest.xml:31:13-47
+	tools:ignore
+		ADDED from [com.vdopia.ads.lw:inmobi-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a038df08449a5cc0a478878dad2ba172e2959888/output/AndroidManifest.xml:33:13-43
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:inmobi-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a038df08449a5cc0a478878dad2ba172e2959888/output/AndroidManifest.xml:29:13-115
+	android:theme
+		ADDED from [com.vdopia.ads.lw:inmobi-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a038df08449a5cc0a478878dad2ba172e2959888/output/AndroidManifest.xml:32:13-60
+	android:name
+		ADDED from [com.vdopia.ads.lw:inmobi-adapter:1.0.5] /Users/souravbanik/.android/build-cache/a038df08449a5cc0a478878dad2ba172e2959888/output/AndroidManifest.xml:28:13-65
+activity#com.ironsource.sdk.controller.ControllerActivity
+ADDED from [com.vdopia.ads.lw:ironsrc-adapter:1.0.5] /Users/souravbanik/.android/build-cache/d3c40f804410494a1a8544f021ae0c86dbf2cffa/output/AndroidManifest.xml:17:9-20:50
+	android:hardwareAccelerated
+		ADDED from [com.vdopia.ads.lw:ironsrc-adapter:1.0.5] /Users/souravbanik/.android/build-cache/d3c40f804410494a1a8544f021ae0c86dbf2cffa/output/AndroidManifest.xml:20:13-47
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:ironsrc-adapter:1.0.5] /Users/souravbanik/.android/build-cache/d3c40f804410494a1a8544f021ae0c86dbf2cffa/output/AndroidManifest.xml:19:13-59
+	android:name
+		ADDED from [com.vdopia.ads.lw:ironsrc-adapter:1.0.5] /Users/souravbanik/.android/build-cache/d3c40f804410494a1a8544f021ae0c86dbf2cffa/output/AndroidManifest.xml:18:13-76
+activity#com.ironsource.sdk.controller.InterstitialActivity
+ADDED from [com.vdopia.ads.lw:ironsrc-adapter:1.0.5] /Users/souravbanik/.android/build-cache/d3c40f804410494a1a8544f021ae0c86dbf2cffa/output/AndroidManifest.xml:21:9-25:64
+	android:hardwareAccelerated
+		ADDED from [com.vdopia.ads.lw:ironsrc-adapter:1.0.5] /Users/souravbanik/.android/build-cache/d3c40f804410494a1a8544f021ae0c86dbf2cffa/output/AndroidManifest.xml:24:13-47
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:ironsrc-adapter:1.0.5] /Users/souravbanik/.android/build-cache/d3c40f804410494a1a8544f021ae0c86dbf2cffa/output/AndroidManifest.xml:23:13-59
+	android:theme
+		ADDED from [com.vdopia.ads.lw:ironsrc-adapter:1.0.5] /Users/souravbanik/.android/build-cache/d3c40f804410494a1a8544f021ae0c86dbf2cffa/output/AndroidManifest.xml:25:13-61
+	android:name
+		ADDED from [com.vdopia.ads.lw:ironsrc-adapter:1.0.5] /Users/souravbanik/.android/build-cache/d3c40f804410494a1a8544f021ae0c86dbf2cffa/output/AndroidManifest.xml:22:13-78
+activity#com.ironsource.sdk.controller.OpenUrlActivity
+ADDED from [com.vdopia.ads.lw:ironsrc-adapter:1.0.5] /Users/souravbanik/.android/build-cache/d3c40f804410494a1a8544f021ae0c86dbf2cffa/output/AndroidManifest.xml:26:9-30:64
+	android:hardwareAccelerated
+		ADDED from [com.vdopia.ads.lw:ironsrc-adapter:1.0.5] /Users/souravbanik/.android/build-cache/d3c40f804410494a1a8544f021ae0c86dbf2cffa/output/AndroidManifest.xml:29:13-47
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:ironsrc-adapter:1.0.5] /Users/souravbanik/.android/build-cache/d3c40f804410494a1a8544f021ae0c86dbf2cffa/output/AndroidManifest.xml:28:13-59
+	android:theme
+		ADDED from [com.vdopia.ads.lw:ironsrc-adapter:1.0.5] /Users/souravbanik/.android/build-cache/d3c40f804410494a1a8544f021ae0c86dbf2cffa/output/AndroidManifest.xml:30:13-61
+	android:name
+		ADDED from [com.vdopia.ads.lw:ironsrc-adapter:1.0.5] /Users/souravbanik/.android/build-cache/d3c40f804410494a1a8544f021ae0c86dbf2cffa/output/AndroidManifest.xml:27:13-73
+uses-permission#android.permission.VIBRATE
+ADDED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:18:5-66
+	android:name
+		ADDED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:18:22-63
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:19:22-68
+library
+ADDED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:23:5-51
+	android:name
+		ADDED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:23:14-48
+activity#com.loopme.AdActivity
+ADDED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:26:9-31:50
+	android:hardwareAccelerated
+		ADDED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:31:13-47
+	android:exported
+		ADDED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:30:13-36
+	android:configChanges
+		ADDED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:29:13-74
+	android:alwaysRetainTaskState
+		ADDED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:28:13-49
+	android:name
+		ADDED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:27:13-49
+activity#com.loopme.AdBrowserActivity
+ADDED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:32:9-65
+	android:name
+		ADDED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:32:19-62
+activity#com.loopme.MraidActivity
+ADDED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:33:9-36:50
+	android:hardwareAccelerated
+		ADDED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:36:13-47
+	android:configChanges
+		ADDED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:35:13-74
+	android:name
+		ADDED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:34:13-52
+activity#com.loopme.mraid.MraidVideoActivity
+ADDED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:37:9-39:53
+	android:screenOrientation
+		ADDED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:39:13-50
+	android:name
+		ADDED from [com.loopme:loopme-sdk:5.2.7] /Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/AndroidManifest.xml:38:13-63
+activity#com.mopub.mobileads.MoPubActivity
+ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:27:9-29:125
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:29:13-122
+	android:name
+		ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:28:13-61
+activity#com.mopub.mobileads.MraidActivity
+ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:30:9-32:125
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:32:13-122
+	android:name
+		ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:31:13-61
+activity#com.mopub.common.MoPubBrowser
+ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:33:9-35:125
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:35:13-122
+	android:name
+		ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:34:13-57
+activity#com.mopub.mobileads.MraidVideoPlayerActivity
+ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:36:9-38:125
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:38:13-122
+	android:name
+		ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:37:13-72
+activity#com.mopub.mobileads.RewardedMraidActivity
+ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:39:9-41:125
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:41:13-122
+	android:name
+		ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.6] /Users/souravbanik/.android/build-cache/74e3f14635fa3ff9cc198d66e2301d61ae5b704d/output/AndroidManifest.xml:40:13-69
+activity#com.tapjoy.TJAdUnitActivity
+ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:26:9-30:86
+	android:hardwareAccelerated
+		ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:29:13-47
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:28:13-74
+	android:theme
+		ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:30:13-83
+	android:name
+		ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:27:13-55
+activity#com.tapjoy.TJContentActivity
+ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:31:9-35:75
+	android:hardwareAccelerated
+		ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:34:13-47
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:33:13-74
+	android:theme
+		ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:35:13-72
+	android:name
+		ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:32:13-56
+activity#com.tapjoy.mraid.view.ActionHandler
+ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:36:9-38:77
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:38:13-74
+	android:name
+		ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:37:13-63
+activity#com.tapjoy.mraid.view.Browser
+ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:39:9-41:77
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:41:13-74
+	android:name
+		ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.5] /Users/souravbanik/.android/build-cache/39522b2e3b4e0a491e391d407a563c3e4ff1f891/output/AndroidManifest.xml:40:13-57
+activity#com.unity3d.ads.adunit.AdUnitActivity
+ADDED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:26:9-30:74
+	android:hardwareAccelerated
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:29:13-47
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:28:13-170
+	android:theme
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:30:13-71
+	android:name
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:27:13-65
+activity#com.unity3d.ads.adunit.AdUnitTransparentActivity
+ADDED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:31:9-35:86
+	android:hardwareAccelerated
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:34:13-47
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:33:13-170
+	android:theme
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:35:13-83
+	android:name
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:32:13-76
+activity#com.unity3d.ads.adunit.AdUnitTransparentSoftwareActivity
+ADDED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:36:9-40:86
+	android:hardwareAccelerated
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:39:13-48
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:38:13-170
+	android:theme
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:40:13-83
+	android:name
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:37:13-84
+activity#com.unity3d.ads.adunit.AdUnitSoftwareActivity
+ADDED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:41:9-45:74
+	android:hardwareAccelerated
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:44:13-48
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:43:13-170
+	android:theme
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:45:13-71
+	android:name
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.0.7] /Users/souravbanik/.android/build-cache/c39093be05c5c38d588a5ca92e1c814954d5fa8b/output/AndroidManifest.xml:42:13-73
+activity#com.vungle.publisher.VideoFullScreenAdActivity
+ADDED from [com.vdopia.ads.lw:vungle-adapter:1.0.5] /Users/souravbanik/.android/build-cache/4ffe7f80c60bd02d5744eb28a521d3eecc383fef/output/AndroidManifest.xml:26:9-29:74
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:vungle-adapter:1.0.5] /Users/souravbanik/.android/build-cache/4ffe7f80c60bd02d5744eb28a521d3eecc383fef/output/AndroidManifest.xml:28:13-106
+	android:theme
+		ADDED from [com.vdopia.ads.lw:vungle-adapter:1.0.5] /Users/souravbanik/.android/build-cache/4ffe7f80c60bd02d5744eb28a521d3eecc383fef/output/AndroidManifest.xml:29:13-71
+	android:name
+		ADDED from [com.vdopia.ads.lw:vungle-adapter:1.0.5] /Users/souravbanik/.android/build-cache/4ffe7f80c60bd02d5744eb28a521d3eecc383fef/output/AndroidManifest.xml:27:13-74
+activity#com.vungle.publisher.MraidFullScreenAdActivity
+ADDED from [com.vdopia.ads.lw:vungle-adapter:1.0.5] /Users/souravbanik/.android/build-cache/4ffe7f80c60bd02d5744eb28a521d3eecc383fef/output/AndroidManifest.xml:30:9-33:86
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:vungle-adapter:1.0.5] /Users/souravbanik/.android/build-cache/4ffe7f80c60bd02d5744eb28a521d3eecc383fef/output/AndroidManifest.xml:32:13-106
+	android:theme
+		ADDED from [com.vdopia.ads.lw:vungle-adapter:1.0.5] /Users/souravbanik/.android/build-cache/4ffe7f80c60bd02d5744eb28a521d3eecc383fef/output/AndroidManifest.xml:33:13-83
+	android:name
+		ADDED from [com.vdopia.ads.lw:vungle-adapter:1.0.5] /Users/souravbanik/.android/build-cache/4ffe7f80c60bd02d5744eb28a521d3eecc383fef/output/AndroidManifest.xml:31:13-74
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.6.2] /Users/souravbanik/.android/build-cache/50c73fbbf82175542294611bc2c1763ea9d3b426/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.6.2] /Users/souravbanik/.android/build-cache/50c73fbbf82175542294611bc2c1763ea9d3b426/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.6.2] /Users/souravbanik/.android/build-cache/50c73fbbf82175542294611bc2c1763ea9d3b426/output/AndroidManifest.xml:20:20-65
